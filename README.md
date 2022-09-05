@@ -5,7 +5,11 @@
 ## Layout
 
 
-
+## Para rodar a aplicação
+<p>Realize um git clone.</p>
+<p>Dentro do projeto no terminal rodar um npm install.</p>
+<p>Assim que for instalado todas dependências rodar um npm start.</p>
+<p>No navgeador digitar: https://localhost:3000</p>
 
 <br>
 <h1>🛠 Tecnologias</h1> 
