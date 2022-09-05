@@ -3,7 +3,7 @@
 <p>Uma aplicação web, um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.</p> 
 
 ## Layout
-
+<img src="https://raw.githubusercontent.com/brunogoncalvesferreira/ecoleta/main/layout1.png" />
 
 ## Para rodar a aplicação
 <p>Realize um git clone.</p>
