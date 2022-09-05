@@ -1,0 +1,103 @@
+#page-search-results {
+    width: 90%;
+    max-width: 1100px;
+
+    margin: 0 auto;
+}
+
+#page-search-results header {
+    margin-top: 48px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#page-search-results header a {
+    color: var(--title-color);
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+}
+
+#page-search-results header a span {
+    margin-right: 16px;
+    background-image: url(../assets/arrow-left.svg);
+
+    display: flex;
+
+    width: 20px;
+    height: 24px;
+}
+
+main {
+    margin: 48px;
+
+}
+
+main h4 {
+    font-weight: normal;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 32px;
+}
+
+main .cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    gap: 24px;
+}
+
+main .cards img {
+    width: 100%;
+    height: auto;
+
+    border-radius: 8px 8px 0 0;
+
+}
+
+main .cards h1 {
+    font-size: 36px;
+    line-height: 41px;
+
+    color: var(--title-color);
+
+    margin-top: 32px;
+
+}
+
+main .cards h3 {
+    margin: 24px 0;
+    font-family: "Roboto", sans-serif;
+
+    font-size: 24px;
+    line-height: 34px;
+
+    color: var(--primary-color);
+
+}
+
+main .cards p {
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #6c6c80;
+}
+
+/* Criando o efeito acima um background é abaixo outro background*/
+body {
+    background-color: #fff;
+}
+
+body::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 16rem;
+    background-color: #e8e8ee;
+    z-index: -1;
+}

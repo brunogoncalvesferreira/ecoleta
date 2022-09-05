@@ -1,0 +1,16 @@
+{
+  "name": "ecoleta-nlw",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Bruno Gonçalves Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.11"
+  }
+}
