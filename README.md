@@ -10,7 +10,7 @@
 ```bash
 
 ## Realize um git clone
-$ https://github.com/brunogoncalvesferreira/ecoleta.git
+$ git clone https://github.com/brunogoncalvesferreira/ecoleta.git
 
 ## Dentro do projeto no terminal
 $ npm install
