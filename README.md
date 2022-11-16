@@ -9,10 +9,17 @@
 
 ```bash
 
-##Realize um git clone
-##Dentro do projeto no terminal rodar um npm install
-##Assim que for instalado todas dependências rodar um npm start
-##No navgeador digitar: https://localhost:3000
+## Realize um git clone
+$ https://github.com/brunogoncalvesferreira/ecoleta.git
+
+## Dentro do projeto no terminal
+$ npm install
+
+## Iniciar a aplicação
+$ npm start
+
+## No navgeador digitar 
+$ https://localhost:3000
 
 ```
 <br>
