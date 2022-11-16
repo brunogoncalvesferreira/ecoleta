@@ -6,11 +6,12 @@
 <img src="https://raw.githubusercontent.com/brunogoncalvesferreira/ecoleta/main/layout1.png" />
 
 ## Para rodar a aplicação
+```bash
 <p>Realize um git clone.</p>
 <p>Dentro do projeto no terminal rodar um npm install.</p>
 <p>Assim que for instalado todas dependências rodar um npm start.</p>
 <p>No navgeador digitar: https://localhost:3000</p>
-
+```
 <br>
 <h1>🛠 Tecnologias</h1> 
 
