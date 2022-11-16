@@ -9,16 +9,19 @@
 
 ```bash
 
-## Realize um git clone
+## Clone o repositório 
 $ git clone https://github.com/brunogoncalvesferreira/ecoleta.git
+
+## Acesse a pasta pelo terminal 
+$ cd ecoleta
 
 ## Dentro do projeto no terminal
 $ npm install
 
-## Iniciar a aplicação
+## Inicie a aplicação pelo terminal
 $ npm start
 
-## No navgeador digitar 
+## No navegador digitar 
 $ https://localhost:3000
 
 ```
